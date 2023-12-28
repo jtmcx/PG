@@ -55,6 +55,10 @@
       (pgocaml	 "PG-OCaml" "pgml")
       (pghaskell "PG-Haskell" "pghci")
 
+      ;; Custom Extensions
+
+      (makam "Makam" "makam")
+
       ;; Incomplete/obsolete:
 
       ;; (demoisa "Isabelle Demo" "ML")  ; obsolete
